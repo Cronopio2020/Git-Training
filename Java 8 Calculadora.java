@@ -36,7 +36,7 @@ public static void main(String[] args) {
 
     } while (opcion != 0); //Sale del programa
 
-    //Cerramos el teclado
+    //Cerramos el teclado CAMBIO PARA GIT TEST
     sc.close();
 
     //Cerramos el programa
